@@ -45,7 +45,7 @@ std::streambuf* g_origCerrBuf = nullptr;
 
 // INI File Defaults
 const char* INI_FILENAME = "UESigPatchTCMPakbypass.ini";
-const char* DEFAULT_CREATE_PATCHED_EXE = "false"; // Default to false
+const char* DEFAULT_CREATE_PATCHED_EXE = "true"; // Default to false
 const char* DEFAULT_SHOW_CONSOLE = "true";       // Default to true
 
 // --- Game Version Enum ---
